@@ -3,4 +3,5 @@ Encontrar la ruta más satisfactoria entre diferentes destinos turísticos utili
 Bibliotecas a instalar para el correcto funcionamiento:
 - networkx
 - matplotlib
+Unicamente se debe ingresar por consola el nombre del lugar gustado.
 
